@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES5",           
+    "module": "ES6",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "watch": true,
+    "outDir": "public/scripts",
+    "resolveJsonModule": true
+  },
+  "files": [
+    "src/index.ts"
+  ]
+}
